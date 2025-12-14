@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudeep Varma Datla</h1>
 <h3 align="center">
-Full-Stack Developer | Cloud & Backend Engineer | AI-Curious 🚀
+Full-Stack Developer | DevOps & Cloud Engineer | AI-Curious 🚀
 </h3>
 
 <p align="center">
@@ -80,6 +80,8 @@ src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=klu-2100031365&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=klu-2100031365&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=klu-2100031365&show_icons=true&theme=tokyonight" />
+
 </p>
 
 <p align="center">
