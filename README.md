@@ -4,7 +4,7 @@ Full-Stack Developer | Cloud & Backend Engineer | AI-Curious 🚀
 </h3>
 
 <p align="center">
-  <a href="https://datlasudeepvarma.vercel.app"><b>Portfolio</b></a> •
+  <a href="https://sudeepvarma.vercel.app"><b>Portfolio</b></a> •
   <a href="mailto:sudeep.varma.datla@gmail.com"><b>Email</b></a> •
   <a href="https://linkedin.com/in/datlasudeepvarma"><b>LinkedIn</b></a>
 </p>
@@ -50,7 +50,7 @@ src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a
 
 #### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
 #### ⚙️ Backend
@@ -78,12 +78,12 @@ src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudeepvarma&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeepvarma&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=klu-2100031365&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klu-2100031365&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepvarma&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klu-2100031365&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
