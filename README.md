@@ -4,6 +4,10 @@ Full-Stack Developer | DevOps & Cloud Engineer | AI-Curious 🚀
 </h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=klu-2100031365&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
   <a href="https://sudeepvarma.vercel.app"><b>Portfolio</b></a> •
   <a href="mailto:sudeep.varma.datla@gmail.com"><b>Email</b></a> •
   <a href="https://linkedin.com/in/datlasudeepvarma"><b>LinkedIn</b></a>
