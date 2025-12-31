@@ -22,15 +22,16 @@ Full-Stack Developer | DevOps & Cloud Engineer | AI-Curious 🚀
 - 💼 Full-Stack Developer (MERN / Next.js / FastAPI)
 - ☁️ Strong background in **Cloud & DevOps (AWS, Docker, Kubernetes)**
 - 🤖 Exploring **Agentic AI & backend-driven intelligent systems**
-- 🔭 Currently building **[SmartSplit](LINK_TO_REPO_IF_PUBLIC)** (scalable expense-sharing platform)
-- 🎯 Long-term goal: **High-impact engineering roles**
+- 🔭 Currently building **[SmartSplit](https://github.com/klu-2100031365/SmartSplit)**  
+  *(scalable expense-sharing platform with modern architecture)*
+- 🎯 Long-term goal: **High-impact engineering roles & system-level ownership**
 
 ---
 
 ### 🧠 Currently Learning
 - **FastAPI (production-grade APIs)**
 - **Agentic AI & LLM-based workflows**
-- **System Design & Scalability**
+- **System Design, Scalability & Cloud Architecture**
 
 ---
 
@@ -61,20 +62,21 @@ Full-Stack Developer | DevOps & Cloud Engineer | AI-Curious 🚀
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring" />
 </p>
 
-#### ☁️ Cloud & DevOps
+#### ☁️ Cloud, DevOps & Infrastructure
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux" />
 </p>
 
-#### 🗄️ Databases
+#### 🗄️ Databases & Data Stores
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 </p>
 
-#### 🧠 AI / ML (Growing)
+#### 🎨🧠 Design, AI & Intelligent Systems (Growing)
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=figma,python,tensorflow,opencv" />
 </p>
+
 
 ---
 
@@ -89,6 +91,8 @@ Full-Stack Developer | DevOps & Cloud Engineer | AI-Curious 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klu-2100031365&layout=compact&theme=tokyonight"/>
 </p>
 
+
+
 ---
 
 ### 📄 Resume
@@ -97,5 +101,5 @@ Full-Stack Developer | DevOps & Cloud Engineer | AI-Curious 🚀
 ---
 
 <p align="center">
-⚡ <i>“I don’t just build apps — I design systems that scale.”</i>
+ <i>“⚡Building scalable systems with clean design and intelligent engineering.”</i>
 </p>
