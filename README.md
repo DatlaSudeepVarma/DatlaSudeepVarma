@@ -83,7 +83,7 @@ Full-Stack Developer | DevOps & Cloud Engineer | AI-Curious 🚀
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klu-2100031365&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=klu-2100031365&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://streak-stats.demolab.com?user=klu-2100031365&theme=tokyonight" height="165"/>
 </p>
 
