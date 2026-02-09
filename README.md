@@ -102,5 +102,8 @@ Full-Stack Developer | DevOps & Cloud Engineer | AI-Curious 🚀
 ---
 
 <p align="center">
- <i>“⚡Building scalable systems with clean design and intelligent engineering.”</i>
+ <i>“⚡Building scalable systems with clean design and Intelligent Engineering.”</i>
 </p>
+
+
+
