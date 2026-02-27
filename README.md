@@ -22,7 +22,7 @@ Full-Stack Developer | DevOps & Cloud Engineer | AI-Curious 🚀
 - 💼 Full-Stack Developer (MERN / Next.js / FastAPI)
 - ☁️ Strong background in **Cloud & DevOps (AWS, Docker, Kubernetes)**
 - 🤖 Exploring **Agentic AI & backend-driven intelligent systems**
-- 🔭 Currently building **[SmartSplit](https://github.com/klu-2100031365/SmartSplit)**  
+- 🔭 Currently building **[SmartSplit](https://github.com/DatlaSudeepVarma/SmartSplit)**  
   *(scalable expense-sharing platform with modern architecture)*
 - 🎯 Long-term goal: **High-impact engineering roles & system-level ownership**
 
@@ -83,12 +83,12 @@ Full-Stack Developer | DevOps & Cloud Engineer | AI-Curious 🚀
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klu-2100031365&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=klu-2100031365&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DatlaSudeepVarma&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=DatlaSudeepVarma&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klu-2100031365&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatlaSudeepVarma&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 
