@@ -2,11 +2,14 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/datlasudeepvarma">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;
-  <a href="https://sudeepvarma.vercel.app/">
+ <a href="https://sudeepvarma.vercel.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>&nbsp;
+   <a href="https://www.instagram.com/sudeep_varma_datla">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/datlasudeepvarma">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;
   <a href="mailto:datlasudeep@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
@@ -27,7 +30,7 @@
 <p align="left">
 Passionate about building scalable digital products, cloud-native applications, and intelligent systems that solve real-world problems.
 
-Currently contributing as a Full Stack Cloud Engineer at Corezen Tech while leading product development as CTO (Founding Team) at Morris Matrix. My interests span modern web development, cloud architecture, system design, DevOps, and AI-powered software engineering, with a focus on creating reliable, impactful, and user-centric solutions.
+Currently contributing as a <b>Full Stack Cloud Engineer</b> at Corezen Tech while leading product development as <b>CTO (Founding Team) </b> at Morris Matrix. My interests span modern web development, cloud architecture, system design, DevOps, and AI-powered software engineering, with a focus on creating reliable, impactful, and user-centric solutions.
 </p>
 
 <table>
