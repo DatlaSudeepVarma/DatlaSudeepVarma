@@ -65,7 +65,7 @@ Currently contributing as a Full Stack Cloud Engineer at Corezen Tech while lead
   </a>
   <img src="https://streak-stats.demolab.com/?user=DatlaSudeepVarma&theme=github_dark&hide_border=true&cache_seconds=86400" alt="DatlaSudeepVarma's GitHub Streak" width="49%" />
 </p>
-<p align="right">
+<p align="center">
   <a href="https://github.com/DatlaSudeepVarma">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DatlaSudeepVarma&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
