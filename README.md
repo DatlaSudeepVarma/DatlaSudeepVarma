@@ -59,17 +59,21 @@ Currently contributing as a Full Stack Cloud Engineer at Corezen Tech while lead
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="left">
-  <a href="https://github.com/DatlaSudeepVarma">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DatlaSudeepVarma&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="DatlaSudeepVarma's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=DatlaSudeepVarma&theme=github_dark&hide_border=true&cache_seconds=86400" alt="DatlaSudeepVarma's GitHub Streak" width="49%" />
-</p>
+
 <p align="center">
   <a href="https://github.com/DatlaSudeepVarma">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DatlaSudeepVarma&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DatlaSudeepVarma&cache_seconds=7200&theme=github_dark&border_radius=10" alt="DatlaSudeepVarma's GitHub Stats" />
+  </a>
+
+  <img width="48%" src="https://streak-stats.demolab.com/?user=DatlaSudeepVarma&theme=github_dark&hide_border=true&cache_seconds=86400" alt="DatlaSudeepVarma's GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DatlaSudeepVarma">
+    <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DatlaSudeepVarma&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
