@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=DatlaSudeepVarma">
-    <img src="https://komarev.com/ghpvc/?username=DatlaSudeepVarma&label=Profile%20views&color=00FFFF&style=flat-square" alt="DatlaSudeepVarma's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=DatlaSudeepVarma&label=Profile%20visitors&color=A371F7&style=flat-square" alt="DatlaSudeepVarma's profile views" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@ Currently contributing as a Full Stack Cloud Engineer at Corezen Tech while lead
 </table>
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/DatlaSudeepVarma">
