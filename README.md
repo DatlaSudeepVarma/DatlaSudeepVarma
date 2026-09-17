@@ -65,7 +65,7 @@ Currently contributing as a <b>Full Stack Cloud Engineer</b> at Corezen Tech whi
 
 <p align="center">
   <a href="https://github.com/DatlaSudeepVarma">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DatlaSudeepVarma&cache_seconds=7200&theme=github_dark&border_radius=10" alt="DatlaSudeepVarma's GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DatlaSudeepVarma&cache_seconds=720&theme=github_dark&border_radius=10" alt="DatlaSudeepVarma's GitHub Stats" />
   </a>
 
   <img width="48%" src="https://streak-stats.demolab.com/?user=DatlaSudeepVarma&theme=github_dark&hide_border=true&cache_seconds=86400" alt="DatlaSudeepVarma's GitHub Streak" />
